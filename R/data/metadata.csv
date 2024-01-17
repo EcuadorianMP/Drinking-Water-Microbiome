@@ -1,0 +1,15 @@
+Localidad ,ID Inicial,Muestra,Type,Characteristics,Estado,Contenido,Ca,Cl,PO4,Fe,Mg,NO3,NO2,K,Na,pH,Tm
+Cuenca,C004,M3 Cuenca,Agua,Transparente,Liquid,1L,10.5,5,0.2,0.09,1.6,0.4,0.01,0.8,1.42,7.5,12.7
+Cuenca,C002,M2 Cuenca,Agua,Poco turbia,Liquid,1L,14.8,5,0.8,0.24,2.2,0.6,0.01,1,1.66,7.8,11.7
+Cuenca,C001,M1 Cuenca,Agua,Poco turbia,Liquid,1L,15,5,0.1,0.23,2.1,0.6,0.01,0.8,1.46,7.99,11.7
+Guayllabamba,MG004,M5 Escuela MG 0012(11),Agua,Transparente,Liquid,1L,14,15,0.1,0.15,5.6,2.5,0.01,2.4,20.27,7.98,17.4
+Guayllabamba,MG003,M6 Tanque almacenamiento MGM 011 (10),Agua,Transparente,Liquid,1L,13.4,16,0.1,0.12,5.2,2.1,0.01,2.2,18.03,7.95,16.4
+Guayllabamba,MG001,M7 Muestra cruda MGP 009 (9),Agua,Poco turbia,Liquid,1L,13.1,15,0.1,0.47,17.2,0.5,0.01,1.6,8.94,8.23,12
+Uyumbicho,UY008,M11 P. Norte Angamarca,Agua,Poco turbia,Liquid,1L,20.4,5,0.1,0.07,15.6,2.9,0.01,3.7,12.26,7.53,17.4
+Uyumbicho,UY007,M9 San Carlos Punto Sur Escuela,Agua,Transparente,Liquid,1L,10.9,6,0.1,0.07,9.6,3,0.01,2.7,6.84,7.49,18.3
+Uyumbicho,UY006,M8 San Carlos Punto Sur Escuela,Agua,Turbia,Liquid,1L,22.5,5,0.1,1.84,10.4,0.5,0.019,4.4,17.15,8.01,15.7
+Uyumbicho,UY005,M10 Pozo San Carlos Tratada (5),Agua,Turbia,Liquid,1L,23.9,27,0.1,0.11,11.2,0.4,0.01,4.2,25.78,7.64,15.7
+Uyumbicho,UY004,M12 Angamarca Tanque-tratado (4),Agua,Transparente,Liquid,1L,17.2,5,0.1,0.07,10.4,2.8,0.01,4.9,11.13,7.44,15.7
+Uyumbicho,UY003,M13 Angamarca sin tratamiento,Agua,Transparente,Liquid,1L,13.9,5,0.1,0.07,8.8,2.8,0.01,4.4,9.48,7.36,15.7
+Uyumbicho,UY002,M14 Tanque junta,Agua,Transparente,Liquid,1L,20.2,6,0.1,0.07,20.8,3.1,0.01,4.2,13.13,7.3,14.8
+Uyumbicho,UY001,M15 Uyuri Junta (1),Agua,Transparente,Liquid,1L,17.2,5,0.1,0.07,24.5,2.5,0.01,2.9,12.41,7.5,15.3

@@ -1,0 +1,532 @@
+2256	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium
+987	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium
+605	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacterium
+548	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Lawsonella
+493	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium
+282	Bacteria	Firmicutes	Clostridia	Clostridiales	Family_XI	Anaerococcus
+274	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacterium
+259	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium_1
+257	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Romboutsia
+249	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium
+207	Bacteria	Firmicutes	Clostridia	Clostridiales	Family_XI	Anaerococcus
+171	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Succinivibrionaceae	Anaerobiospirillum
+156	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Gluconobacter
+155	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium
+155	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales_Incertae_Sedis	Phreatobacter
+136	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Lawsonella
+134	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae	Geodermatophilus
+132	Bacteria	Firmicutes	Clostridia	Clostridiales	Family_XI	Finegoldia
+131	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas
+129	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Gluconobacter
+122	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia
+95	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Lawsonella
+95	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	
+83	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus
+79	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	
+75	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus
+75	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Helicobacter
+72	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus
+70	Bacteria	Proteobacteria	Alphaproteobacteria	Alphaproteobacteria_Incertae_Sedis		
+69	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	MSB-1E8	
+69	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Succinivibrionaceae	Anaerobiospirillum
+62	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium
+59	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium
+58	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Arcobacter
+57	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	Anaerolinea
+56	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas
+54	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacterium
+54	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Nesterenkonia
+54	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	
+48	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium_1
+48	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium
+42	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia
+41	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas
+38	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	
+33	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacterium
+30	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia
+30	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus
+28	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Knoellia
+27	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Leucobacter
+27	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia
+26	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium
+22	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Dermabacteraceae	Brachybacterium
+22	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Peptoclostridium
+16	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	
+12	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium
+10	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus
+9	Bacteria	Actinobacteria	Actinobacteria	Frankiales		
+8	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium
+8	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas
+2	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Lawsonella
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Mitochondria	
+0	Bacteria	Parcubacteria	Candidatus_Falkowbacteria			
+0	Bacteria	Parcubacteria	Candidatus_Uhrbacteria			
+0	Archaea	Euryarchaeota	Methanomicrobia	Methanocellales	Methanocellaceae	Methanocella
+0	Archaea	Euryarchaeota	Methanomicrobia	Methanomicrobiales	Methanoregulaceae	Methanoregula
+0	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium
+0	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	
+0	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales		
+0	Bacteria	Elusimicrobia	Elusimicrobia	Lineage_IIc		
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	SM2D12	
+0	Bacteria	Proteobacteria	Betaproteobacteria			
+0	Bacteria	Microgenomates	Candidatus_Levybacteria			
+0	Bacteria	Parcubacteria	Candidatus_Jorgensenbacteria			
+0	Bacteria	Parcubacteria	Candidatus_Azambacteria			
+0	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propioniciclava
+0	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Arcobacter
+0	Bacteria	Verrucomicrobia	Opitutae	Opitutales	Opitutaceae	Diplosphaera
+0	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae	
+0	Bacteria	Chloroflexi	SBR2076			
+0	Bacteria	Armatimonadetes	Armatimonadia	Armatimonadales	Armatimonadaceae	Armatimonas
+0	Bacteria	Parcubacteria	Candidatus_Nomurabacteria			
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae	
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	
+0	Bacteria	Proteobacteria	Gammaproteobacteria			
+0	Bacteria	Proteobacteria	Betaproteobacteria	070125-BRIC7-5		
+0	Bacteria	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	
+0	Bacteria	Actinobacteria	Actinobacteria			
+0	Bacteria	Parcubacteria	Candidatus_Magasanikbacteria			
+0	Bacteria	Parcubacteria	Candidatus_Moranbacteria			
+0	Bacteria	Microgenomates	Candidatus_Woesebacteria			
+0	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Sporichthyaceae	hgcI_clade
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales		
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Alphaproteobacteria_Incertae_Sedis	Unknown_Family	
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Caproiciproducens
+0	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Sulfuricurvum
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Succinivibrionaceae	Succinivibrio
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Family_XI	Peptoniphilus
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Family_XI	Murdochiella
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospira
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae_UCG-004
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia
+0	Bacteria	Acidobacteria	Solibacteres	Solibacterales	Solibacteraceae_(Subgroup_3)	Bryobacter
+0	Bacteria	Armatimonadetes	Fimbriimonadia	Fimbriimonadales		
+0	Bacteria	Proteobacteria	Alphaproteobacteria	SAR11_clade	LD12_freshwater_group	
+0	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Citreitalea
+0	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Sulfurovum
+0	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales		
+0	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	Bdellovibrio
+0	Bacteria	Proteobacteria	Gammaproteobacteria	34P16		
+0	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Cetobacterium
+0	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae_1	Clostridium_sensu_stricto_1
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionII	FamilyII	Pleurocapsa
+0	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides
+0	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Marmoricola
+0	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Gallionellaceae	Gallionella
+0	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Sporichthyaceae	Candidatus_Planktophila
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	bac2nit3	
+0	Bacteria	Proteobacteria	Alphaproteobacteria			
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sandarakinorhabdus
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Zymomonas
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales		
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales		
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Rhizorhapis
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingorhabdus
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingopyxis
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Erythrobacteraceae	Altererythrobacter
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	JG34-KF-161	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Rhodovastum
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acidocella
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Roseomonas
+0	Bacteria	Proteobacteria	Proteobacteria_Incertae_Sedis	Unknown_Order	Unknown_Family	Candidatus_Thiobios
+0	Bacteria	Proteobacteria	Proteobacteria_Incertae_Sedis	Unknown_Order	Unknown_Family	Candidatus_Tenderia
+0	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	VHS-B4-70	
+0	Bacteria	Nitrospinae	Nitrospinia	Nitrospinales	Nitrospinaceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales		
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylocystaceae	Methylocystis
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Nitrobacter
+0	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Lawsonella
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Devosia
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Psychroglaciecola
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylovirgula
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	alphaI_cluster	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Methylobacterium
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	Methyloceanibacter
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Rhizobium
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Alphaproteobacteria_Incertae_Sedis		
+0	Bacteria	Elusimicrobia	Elusimicrobia	Lineage_I	Unknown_Family	Candidatus_Endomicrobium
+0	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bdellovibrionaceae	OM27_clade
+0	Bacteria	Parcubacteria	Candidatus_Giovannonibacteria			
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rubellimicrobium
+0	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Peptostreptococcus
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Family_XIII	
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Romboutsia
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Terrisporobacter
+0	Bacteria	Chloroflexi	SJA-15			
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Agreia
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Curtobacterium
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae_1	Clostridium_sensu_stricto_9
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae_1	Clostridium_sensu_stricto_12
+0	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	
+0	Bacteria	Actinobacteria	Acidimicrobiia	Acidimicrobiales	Acidimicrobiaceae	
+0	Bacteria	Actinobacteria	Acidimicrobiia	Acidimicrobiales	Acidimicrobiaceae	CL500-29_marine_group
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillales_Incertae_Sedis	Reyranella
+0	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionicicella
+0	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Microlunatus
+0	Bacteria	Chloroflexi	Caldilineae	Caldilineales	Caldilineaceae	
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	MWH-Ta3
+0	Bacteria	Chloroflexi	SL56_marine_group			
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	
+0	Bacteria	Actinobacteria	Acidimicrobiia	Acidimicrobiales	OM1_clade	
+0	Bacteria	Firmicutes	Clostridia	Halanaerobiales	ODP1230B8.23	
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	
+0	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Rugamonas
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcales_Incertae_Sedis	Luteimicrobium
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Tetrasphaera
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Alpinimonas
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Pseudarthrobacter
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Dermacoccaceae	
+0	Bacteria	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Knoellia
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Janibacter
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Arthrobacter
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Dermabacteraceae	Brachybacterium
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Dermacoccaceae	Kytococcus
+0	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus
+0	Bacteria	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	
+0	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Kineococcus
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Glutamicibacter
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Lapillicoccus
+0	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Jatrophihabitans
+0	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Nesterenkonia
+0	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	
+0	Bacteria	Actinobacteria	MB-A2-108			
+0	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium_1
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus_1
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Methylococcales	Methylococcaceae	Methylosoma
+0	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	Flavobacterium
+0	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Arcicella
+0	Bacteria	Saccharibacteria	Unknown_Class	Unknown_Order	Unknown_Family	Candidatus_Saccharimonas
+0	Bacteria	Peregrinibacteria	Candidatus_Peribacteria			
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales		
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Candidatus_Arcanobacter
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas
+0	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Parablastomonas
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	
+0	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	Skermanella
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Acidiphilium
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Craurococcus
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Endobacter
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Rubritepida
+0	Bacteria	Actinobacteria	Actinobacteria	Streptosporangiales	Streptosporangiaceae	
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Enhydrobacter
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Woodsholea
+0	Bacteria	Planctomycetes	Planctomycetacia	Planctomycetales	Planctomycetaceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	Hirschia
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	MNG7	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	JG35-K1-AG5	
+0	Bacteria	Verrucomicrobia	Verrucomicrobia_Incertae_Sedis	Unknown_Order	Unknown_Family	Candidatus_Methylacidiphilum
+0	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Hyphomicrobium
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Mesorhizobium
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Shinella
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Aurantimonadaceae	Aureimonas
+0	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Burkholderiaceae	Polynucleobacter
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylocystaceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	B142	
+0	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Flavobacteriaceae	
+0	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Chitinophagaceae	Sediminibacterium
+0	Bacteria	Verrucomicrobia	Opitutae	Opitutae_vadinHA64		
+0	Bacteria	Proteobacteria	Betaproteobacteria	Methylophilales	Methylophilaceae	Candidatus_Methylopumilus
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	P-102	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	
+0	Bacteria	Actinobacteria	Rubrobacteria	Rubrobacterales	Rubrobacteriaceae	Rubrobacter
+0	Bacteria	Firmicutes	Bacilli			
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales		
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Azorhizophilus
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Neorhizobium
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xylella
+0	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Mitsuaria
+0	Bacteria	Firmicutes	Bacilli	Lactobacillales		
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Rhodoplanes
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	1174-901-12	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Ancylobacter
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Stappia
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	Microvirga
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylorosula
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Beijerinckia
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Azomonas
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	FukuN57	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bosea
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales_Incertae_Sedis	Phreatobacter
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Qingshengfania
+0	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Massilia
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	MNC12	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Phyllobacteriaceae	Aminobacter
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Methylobacteriaceae	
+0	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Chitinophagaceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Hyphomonadaceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Variibacter
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Parvularculales	Parvularculaceae	Amphiplicatus
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Peptoclostridium
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Frigoribacterium
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Cryobacterium
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Family_XII	
+0	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Friedmanniella
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhodobiaceae	
+0	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia
+0	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	
+0	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Gordonia
+0	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Williamsia
+0	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium
+0	Bacteria	Chloroflexi	Thermomicrobia	AKYG1722		
+0	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	
+0	Bacteria	Elusimicrobia	Elusimicrobia	Lineage_IV		
+0	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacterium
+0	Bacteria	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Actinoplanes
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Terrabacter
+0	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfuromonadales	MA-28-I98C	
+0	Bacteria	Parcubacteria	Parcubacteria_Incertae_Sedis	Unknown_Order	Unknown_Family	Candidatus_Paceibacter
+0	Bacteria	Proteobacteria	Betaproteobacteria	Nitrosomonadales	Gallionellaceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiales_Incertae_Sedis	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	
+0	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales		
+0	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Albidiferax
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	I-10	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiales_Incertae_Sedis	Candidatus_Captivus
+0	Bacteria	Proteobacteria	Alphaproteobacteria	4-Org1-14		
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales_Incertae_Sedis	Rhizomicrobium
+0	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Janthinobacterium
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoanaerobaculum
+0	Bacteria	Parcubacteria	Candidatus_Yanofskybacteria			
+0	Bacteria	Microgenomates	Candidatus_Curtissbacteria			
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	MD3-55	
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium_6
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	LWSR-14	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Haematobacter
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Albirhodobacter
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Cereibacter
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae_NK4B4_group
+0	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Helicobacteraceae	Sulfurimonas
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Family_XI	Finegoldia
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia
+0	Bacteria	Acidobacteria	Solibacteres	Solibacterales	Solibacteraceae_(Subgroup_3)	Paludibaculum
+0	Bacteria	Acidobacteria	Solibacteres	Solibacterales	Solibacteraceae_(Subgroup_3)	Elev-16S-1166
+0	Bacteria	Acidobacteria	Solibacteres	Solibacterales	Solibacteraceae_(Subgroup_3)	Candidatus_Solibacter
+0	Bacteria	Proteobacteria	Deltaproteobacteria			
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Family_XI	Ezakiella
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Anaerotruncus
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae_FCS020_group
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Oribacterium
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae_NK4A136_group
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Family_XI	Anaerococcus
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Family_XI	
+0	Bacteria	Verrucomicrobia	Spartobacteria	Chthoniobacterales	Chthoniobacterales_Incertae_Sedis	Terrimicrobium
+0	Bacteria	Verrucomicrobia	Spartobacteria	Chthoniobacterales	FukuN18_freshwater_group	
+0	Bacteria	Verrucomicrobia	Spartobacteria	Chthoniobacterales	Chthoniobacteraceae	Chthoniobacter
+0	Bacteria	Verrucomicrobia	Spartobacteria	Chthoniobacterales		
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadales_Incertae_Sedis	Acidibacter
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	MND8	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	TK34	
+0	Bacteria	Verrucomicrobia	Opitutae	Opitutales	Opitutaceae	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	B79	
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Acetobacteraceae	Rhodovarius
+0	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Leptotrichiaceae	Leptotrichia
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	AKYH478	
+0	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Saprospiraceae	Candidatus_Aquirestis
+0	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Chitinophagaceae	Dinghuibacter
+0	Bacteria	Bacteroidetes	Cytophagia	Cytophagales	Cytophagaceae	Pseudarcicella
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter
+0	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Atopostipes
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Amaricoccus
+0	Bacteria	Planctomycetes	Planctomycetacia	Planctomycetales	Planctomycetaceae	Zavarzinella
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Johnsonella
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiales_Incertae_Sedis	Candidatus_Finniella
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus
+0	Bacteria	Verrucomicrobia	Spartobacteria	Chthoniobacterales	Xiphinematobacteraceae	Candidatus_Xiphinematobacter
+0	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Akkermansia
+0	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Sporichthyaceae	
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium_1
+0	Archaea	Euryarchaeota	Thermoplasmata	Thermoplasmatales		
+0	Archaea	Euryarchaeota	Methanomicrobia	Methanosarcinales	GOM_Arc_I	Candidatus_Methanoperedens
+0	Bacteria	Thermotogae	Thermotogae	Kosmotogales	Kosmotogaceae	Mesotoga
+0	Bacteria	Planctomycetes	Phycisphaerae	Tepidisphaerales	Tepidisphaeraceae	
+0	Bacteria	Parcubacteria	Candidatus_Kuenenbacteria			
+0	Bacteria	Armatimonadetes	Fimbriimonadia	Fimbriimonadales	Fimbriimonadaceae	
+0	Bacteria	Actinobacteria	Acidimicrobiia	Acidimicrobiales		
+0	Archaea	Euryarchaeota	Thermoplasmata	Thermoplasmatales	ASC21	
+0	Bacteria	Chloroflexi	JG37-AG-4			
+0	Bacteria	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae	Dactylosporangium
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionI	FamilyI	Cyanobium
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas
+0	Bacteria	Chloroflexi	SJA-68			
+0	Bacteria	Planctomycetes	Planctomycetacia	Planctomycetales	Planctomycetaceae	Gemmata
+0	Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	CL500-3
+0	Bacteria	Elusimicrobia	Elusimicrobia	HydGH-Bac75		
+0	Archaea	Euryarchaeota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobacterium
+0	Bacteria	Lentisphaerae	Lentisphaeria	Victivallales	Victivallaceae	
+0	Bacteria	Chloroflexi	P2-11E			
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae_UCG-010
+0	Bacteria	Planctomycetes	Planctomycetacia	Planctomycetales	Planctomycetaceae	Pirellula
+0	Bacteria	Microgenomates	Candidatus_Pacebacteria			
+0	Bacteria	Microgenomates	Candidatus_Shapirobacteria			
+0	Bacteria	Actinobacteria	OPB41			
+0	Bacteria	Microgenomates	Candidatus_Collierbacteria			
+0	Bacteria	Cyanobacteria	ML635J-21			
+0	Bacteria	Proteobacteria	Betaproteobacteria	Neisseriales	Neisseriaceae	Leeia
+0	Bacteria	Planctomycetes	Phycisphaerae	CCM11a		
+0	Bacteria	Parcubacteria	Candidatus_Adlerbacteria			
+0	Bacteria	Firmicutes	Clostridia	Clostridiales		
+0	Bacteria	Verrucomicrobia	Opitutae	Opitutales	Opitutaceae	Opitutus
+0	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Chitinophagaceae	Filimonas
+0	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Cryomorphaceae	Salinirepens
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Cellvibrionales	Halieaceae	Marimicrobium
+0	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Zhizhongheella
+0	Bacteria	Proteobacteria	Betaproteobacteria	Rhodocyclales	Rhodocyclaceae	Quatrionicoccus
+0	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	Brevifollis
+0	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	CM1G08	
+0	Bacteria	Cyanobacteria	Cyanobacteria			
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae_UCG-014
+0	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Leminorella
+0	Bacteria	Proteobacteria	Betaproteobacteria	Hot_Creek_32		
+0	Bacteria	Actinobacteria	Nitriliruptoria	Nitriliruptorales	Nitriliruptoraceae	Nitriliruptor
+0	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	Chitinophagaceae	Parasediminibacterium
+0	Bacteria	Actinobacteria	Thermoleophilia			
+0	Bacteria	Bacteroidetes	Sphingobacteriia	Sphingobacteriales	env.OPS_17	
+0	Bacteria	Cyanobacteria	Melainabacteria	Obscuribacterales		
+0	Bacteria	Spirochaetae	Spirochaetes	Spirochaetales	Leptospiraceae	Leptonema
+0	Bacteria	Chloroflexi	Dehalococcoidia	Napoli-4B-65		
+0	Bacteria	Acidobacteria	Blastocatellia	Blastocatellales	Blastocatellaceae_(Subgroup_4)	Stenotrophobacter
+0	Bacteria	Acidobacteria	Blastocatellia	Blastocatellales	Blastocatellaceae_(Subgroup_4)	
+0	Bacteria	Acidobacteria	Blastocatellia	Blastocatellales	Blastocatellaceae_(Subgroup_4)	Blastocatella
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	Christensenellaceae_R-7_group
+0	Bacteria	Chloroflexi	Dehalococcoidia	GIF3		
+0	Bacteria	Chloroflexi	Dehalococcoidia			
+0	Bacteria	Chloroflexi	Dehalococcoidia	Dehalococcoidales	Dehalococcoidaceae	Dehalogenimonas
+0	Bacteria	Chloroflexi	SAR202_clade			
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Heliobacteriaceae	Hydrogenispora
+0	Bacteria	Planctomycetes	Planctomycetacia	Planctomycetales	Planctomycetaceae	Blastopirellula
+0	Bacteria	Cyanobacteria	Melainabacteria	Gastranaerophilales		
+0	Bacteria	Acidobacteria	Blastocatellia	Blastocatellales	Blastocatellaceae_(Subgroup_4)	11-24
+0	Bacteria	Nitrospinae	P9X2b7H09			
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	
+0	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Candidatus_Planktoluna
+0	Bacteria	Actinobacteria	Actinobacteria	PeM15		
+0	Bacteria	Proteobacteria	Deltaproteobacteria	SAR324_clade(Marine_group_B)		
+0	Bacteria	Chloroflexi	Chloroflexia	Chloroflexales	Roseiflexaceae	Roseiflexus
+0	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	
+0	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Verrucomicrobiaceae	
+0	Bacteria	Actinobacteria	Acidimicrobiia	Acidimicrobiales	Iamiaceae	Iamia
+0	Bacteria	Actinobacteria	Acidimicrobiia	Acidimicrobiales	Acidimicrobiales_Incertae_Sedis	Candidatus_Microthrix
+0	Bacteria	Chloroflexi	Ardenticatenia			
+0	Bacteria	Chloroflexi	JG30-KF-CM66			
+0	Bacteria	Chloroflexi	TK10			
+0	Bacteria	Cyanobacteria	Melainabacteria	Caenarcaniphilales		
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	A0839	
+0	Bacteria	Armatimonadetes	Chthonomonadetes	Chthonomonadales		
+0	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	
+0	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Sporichthyaceae	Sporichthya
+0	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales		
+0	Bacteria	Actinobacteria	Actinobacteria	Frankiales		
+0	Bacteria	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Crossiella
+0	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae	Modestobacter
+0	Bacteria	Chloroflexi	Dehalococcoidia	Dehalococcoidales		
+0	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae	Blastococcus
+0	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Archangiaceae	Anaeromyxobacter
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Pelotomaculum
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionI	FamilyI	Microcystis
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionI	FamilyI	Synechococcus
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptococcaceae	Cryptanaerobacter
+0	Bacteria	Chloroflexi	Thermomicrobia	JG30-KF-CM45		
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionIII	FamilyI	Phormidium
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionIII	FamilyI	Tychonema
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionIII	FamilyI	Planktothrix
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionIII	FamilyI	Oscillatoria
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionII	FamilyII	Chroococcidiopsis
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionIII	FamilyI	
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionIII	FamilyI	Chamaesiphon
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionIV	FamilyI	Anabaena
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionI	FamilyI	Snowella
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionIV	FamilyII	Calothrix
+0	Bacteria	Planctomycetes	Phycisphaerae	Phycisphaerales	Phycisphaeraceae	SM1A02
+0	Bacteria	Lentisphaerae	Oligosphaeria			
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae_UCG-002
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Intestinimonas
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Pseudoflavonifractor
+0	Bacteria	Chloroflexi	Chloroflexia	Kallotenuales	AKIW781	
+0	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Cryomorphaceae	Fluviicola
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionI	FamilyI	
+0	Bacteria	Firmicutes	Bacilli	Bacillales	Thermoactinomycetaceae	Laceyella
+0	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	HSB_OF53-F07	
+0	Bacteria	Cyanobacteria	Cyanobacteria	SubsectionIII	FamilyI	Leptolyngbya
+0	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera
+0	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Nakamurellaceae	Nakamurella
+0	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Olsenella
+0	Bacteria	Actinobacteria	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinoallomurus
+0	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae	Geodermatophilus
+0	Bacteria	Actinobacteria	Actinobacteria	Streptosporangiales	Thermomonosporaceae	Actinomadura
+0	Bacteria	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Pseudonocardia
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae_UCG-005
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Sporobacter
+0	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Trueperaceae	Truepera
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus_2
+0	Bacteria	Acidobacteria	Holophagae	Holophagales	Holophagaceae	
+0	Bacteria	Nitrospinae	Belgica2005-10-ZG-3			
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae_1	Oxobacter
+0	Bacteria	Chloroflexi	MSB-5B2			
+0	Bacteria	Firmicutes	Clostridia	Clostridiales	Eubacteriaceae	Acetobacterium
+0	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Gardnerella
+0	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	mle1-27	
+0	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	FW13	
+0	Bacteria	Nitrospirae	Nitrospira	Nitrospirales		
+0	Bacteria	Planctomycetes	OM190			
+0	Bacteria	Planctomycetes	Planctomycetacia	Brocadiales	Brocadiaceae	Candidatus_Kuenenia
+0	Bacteria	Spirochaetae	Spirochaetes	Spirochaetales		
+0	Bacteria	Bacteroidetes	Flavobacteriia	Flavobacteriales	Cryomorphaceae	
+0	Bacteria	Chloroflexi	Ardenticatenia	Ardenticatenales		
+0	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Slackia
+0	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella
+0	Archaea	Thaumarchaeota	Marine_Group_I	Unknown_Order	Unknown_Family	Candidatus_Nitrosoarchaeum
+0	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Myxococcaceae	
+0	Bacteria	Chloroflexi	Caldilineae	Caldilineales	Caldilineaceae	Litorilinea
+0	Bacteria	Planctomycetes	Planctomycetacia	Planctomycetales	Planctomycetaceae	Planctomyces
+0	Bacteria	Deinococcus-Thermus	Deinococci	Thermales	Thermaceae	Meiothermus
+0	Bacteria	Chloroflexi	KD4-96			
+0	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	JG34-KF-361	
+0	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae	
+0	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Oxalobacteraceae	Paraherbaspirillum
+0	Bacteria	Proteobacteria	Epsilonproteobacteria	Campylobacterales	Campylobacteraceae	Campylobacter
+0	Bacteria	Elusimicrobia	Elusimicrobia	Rs-M47		
+0	Bacteria	Chloroflexi	Ktedonobacteria	C0119		
+0	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	JG30a-KF-32	
+0	Eukaryota	Ciliophora	Intramacronucleata	Conthreep	Oligohymenophorea	Zoothamnium
