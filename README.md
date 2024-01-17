@@ -3,9 +3,11 @@
 
 ## Main Code Resources
 
-* QGIS information
+* QGIS information [link](https://github.com/EcuadorianMP/Drinking-Water-Microbiome/tree/main/QGIS)
 
-* R Data analysis
+* R Data analysis [link](https://github.com/EcuadorianMP/Drinking-Water-Microbiome/tree/main/R)
+
+* Kronas plots [link](https://github.com/EcuadorianMP/Drinking-Water-Microbiome/tree/main/R/plots/Supplmental/Kronas)
 
 ## Abstract 
 
@@ -28,3 +30,4 @@ isolated from glaciers. Finally, we suggest the metacommunity structure of the e
 specific metacommunity for the ice-snow-lake niches.The bacterial communities in ice-snow-lake and soil niches are structurally
 different and strongly influenced by the altitudinal gradient. Geochemical variables have a strong influence on the beta-diversity
 and create a complex interaction network and community assembly.
+
