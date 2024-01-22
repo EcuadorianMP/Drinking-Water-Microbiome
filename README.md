@@ -1,33 +1,40 @@
-# Temporal Microbiome Assessment of the Ice-capped Cayambe Volcanic Complex in Ecuador
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
 
+# Bacterial community assessment of drinking water and downstream distribution systems in highland localities of Ecuador Main Code Resources
 
-## Main Code Resources
+-   QGIS information
+    [link](https://github.com/EcuadorianMP/Drinking-Water-Microbiome/tree/main/QGIS)
 
-* QGIS information [link](https://github.com/EcuadorianMP/Drinking-Water-Microbiome/tree/main/QGIS)
+-   R Data analysis
+    [link](https://github.com/EcuadorianMP/Drinking-Water-Microbiome/tree/main/R)
 
-* R Data analysis [link](https://github.com/EcuadorianMP/Drinking-Water-Microbiome/tree/main/R)
+-   Kronas plots
+    [link](https://github.com/EcuadorianMP/Drinking-Water-Microbiome/tree/main/R/plots/Supplmental/Kronas)
 
-* Kronas plots [link](https://github.com/EcuadorianMP/Drinking-Water-Microbiome/tree/main/R/plots/Supplmental/Kronas)
+## Abstract
 
-## Abstract 
-
-Glaciers are extreme and unique ecosystems where temperature can be below zero and are reservoirs of vast bacterial diversity.
-These habitats are mainly threatened by climate change, specifically global warming. 
-The havoc of the temperature increment impacts more to glaciers located in the tropics, such as the Andes in Ecuador.
-These highly affected environments require immediate effort to assess and study its biodiversity. 
-It is of the utmost importance for Andean glaciers to discover the bacterial architecture and diversity before the glacier completes it retreats,
-losing this ecosystem forever.Amplicon metagenomics was employed to explore the microcosm community in their biogeographical 
-patterns in the ice-capped Cayambe volcanic complex along a chronosequence of 5 years with three sampling efforts.
-The dominant phyla in the assessed glacier niches were Proteobacteria, Actinobacteria, Bacteroidetes, 
-Firmicutes, and Planctynomictes. We found two main patterns depending on the altitudinal gradient and temporal scale. 
-High altitude samples (> 5200 masl) tend to have lower alpha-diversity than low altitude samples 
-(< 5200). Meanwhile, at the time scale, the genus richness tends to decrease over the chronosequence. 
-We found that higher nitrogen content can be linked to a greater abundance of Firmicutes 
-and Nitrobacter in soil samples, while the greater concentration of phosphorus might be linked 
-to the P-solubilizer presence Pseudomonas species. Moreover, the reported Stenotrophomonas genus
-requires further investigation since cold-activated enzymes with biotechnological applications have been 
-isolated from glaciers. Finally, we suggest the metacommunity structure of the entire Cayambe ecosystem and the 
-specific metacommunity for the ice-snow-lake niches.The bacterial communities in ice-snow-lake and soil niches are structurally
-different and strongly influenced by the altitudinal gradient. Geochemical variables have a strong influence on the beta-diversity
-and create a complex interaction network and community assembly.
-
+Bacterial communities in drinking water provide a gauge to measure
+quality and confer insights into public health. In contrast to urban
+systems, water treatment in rural areas is not adequately monitored and
+could become a health risk. We performed 16S rRNA amplicon sequencing to
+analyze the microbiome present in the water treatment plants (WTP) at
+two rural agricultural communities, one city, and the downstream water
+for human consumption in schools and reservoirs in the Andean highlands
+of Ecuador. We tested the effect of water treatment on the diversity and
+composition of bacterial communities. A set of physicochemical variables
+in the sampled water was evaluated and correlated with the structure of
+the observed bacterial communities. Predominant bacteria in the analyzed
+communities belonged to Proteobacteria and Actinobacteria. The
+Sphingobium genus, a chlorine resistance group, was particularly
+abundant. Of health concern in drinking water reservoirs were
+Fusobacteriaceae, Lachnospiraceae, and Ruminococcaceae; these families
+are associated with human and poultry fecal contamination. We propose
+the latter families as relevant biomarkers for establishing local
+standards for the monitoring of potable water systems in agricultural
+lands in highland Ecuador. Our assessment of bacterial community
+composition in water systems in the Ecuadorian highlands provides a
+technical background to inform management decisions.
