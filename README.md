@@ -12,7 +12,7 @@ Bacterial communities in drinking water provide a gauge to measure quality and c
 
 # Main figures
 
-![Figure 1. (A) Sample locations, sample codification, and sample sources. (B) Sampling design along the drinking water distribution system from raw water sources to tap water in schools.](R/plots/Main/pdf/figure 1.pdf)
+![Figure 1. (A) Sample locations, sample codification, and sample sources. (B) Sampling design along the drinking water distribution system from raw water sources to tap water in schools.](R/plots/Main/Final%20png/Figure1.jpeg)
 
 ![Figure 2. Structure and diversity of bacterial communities across water samples before and after treatment. (A) ACE, (B) Shannon, and (C) Simpson alpha diversity indexes by sample. All Wilcoxon non-parametric contrast tests between samples were significant, except for the contrast between RW and DW for the Shannon and Simpson indexes (p\>=0.6). (D) Venn diagram of the assigned families between the Silva-S and MiDAS-M databases. (E) Relative abundance by sample of the eleven most abundant families, with the taxonomic classification based on the Silva database.](R/plots/Main/Final%20png/Figure2.jpeg)
 
